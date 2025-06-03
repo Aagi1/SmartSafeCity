@@ -13,6 +13,5 @@
  • Acquérir une solide expérience dans l’utilisation conjointe de technologies open
  source (Mosquitto, Node-RED) et de solutions Cloud (Firebase FCM, Firestore)
  dans un contexte de ville intelligente.
- 
-Architecture 
+  
 ![image](https://github.com/user-attachments/assets/4abf066a-c413-49da-bd2c-2c9b6f0bccaa)
