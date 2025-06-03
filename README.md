@@ -1,6 +1,5 @@
 # 🏙️ SmartSafeCity
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white)](https://nodered.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)](https://mqtt.org/)
@@ -125,10 +124,6 @@ L'application mobile companion permet de :
 - Authentification Firebase sécurisée
 - Validation des données capteurs
 - Logs d'audit complets
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## 👥 Équipe
 
