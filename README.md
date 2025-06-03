@@ -4,7 +4,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![MQTT](https://img.shields.io/badge/MQTT-660066?logo=mqtt&logoColor=white)](https://mqtt.org/)
 
-> **Une solution IoT intelligente pour la sécurité urbaine en temps réel**
+> **Une solution IoT et IA intelligente pour la sécurité urbaine en temps réel**
 
 SmartSafeCity est un système de surveillance urbaine intelligent qui combine capteurs IoT, intelligence artificielle et notifications mobiles pour détecter et signaler instantanément les incidents de sécurité dans les espaces urbains.
 
